@@ -1,3 +1,4 @@
 import database
-
-if __name__ == '__main__': main()
+database.main()
+# from database import main
+# main()
